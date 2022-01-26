@@ -1,0 +1,83 @@
+ body{
+    background: #d6eaf7;
+}
+header{
+    font-size: 25px;
+    font-family:Special Elite;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+    
+}
+.cont{
+    position: absolute;
+    width: 400px;
+    /*height: 300px;*/
+    left: 50px;
+    top: 150px;
+    justify-content: center;
+    padding: 2%;
+    background: #FFFFFF;
+    box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
+    border-radius: 32px;
+}
+input[type="text"] {
+    border: 2px solid rgb(45, 119, 168);
+    margin: 5px 5px 5px 10px;
+    padding: 8px;
+    width: 70%;
+    top:100px;
+    border-radius: 10px;
+  }
+p{
+   margin-left: 20px;
+}
+
+.btn{
+    border: 0;
+    color: white;
+    font-weight: bold;
+    background-color: rgb(35, 90, 153);
+    padding: 10px;
+    margin-top: 20px;
+     border-radius: 0.5em;
+}
+
+.btn2{
+    border: 0;
+    color: white;
+    font-weight: bold;
+    background-color:rgb(83, 142, 182);
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 0.5em;
+}
+.result{
+    position:absolute;
+    width: 400px;
+    height: 80px;
+    left: 50px;
+    top: 400px;
+    padding: 2%;
+    background: #FFFFFF;
+    box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
+    border-radius: 32px;
+}
+img{
+    width: 500px;
+    position: absolute;
+    top: 150px;
+    right:200px;
+}
+.pie{
+    position:absolute;
+    font-size: 25px;
+    width: 500px;
+    margin: -10px;
+    color: white;
+    background-color: rgb(83, 142, 182);
+    top:700px;
+    font-family: fantasy;
+    text-align: center;
+}
